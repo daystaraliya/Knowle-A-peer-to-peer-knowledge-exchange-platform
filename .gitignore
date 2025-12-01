@@ -1,89 +1,4 @@
- ../../.CFUserTextEncoding
-        ../../.DS_Store
-       aitk
-        ../../.android/
-        ../../.bash_history
-        ../../.bash_profile
-        ../../.bun/
-        ../../.bundle/
-        ../../.cache/
-        ../../.cargo/
-        ../../.codeium/
-        ../../.conda/
-        ../../.config/
-        ../../.cups/
-        ../../.cursor/
-        ../../.docker/
-        ../../.electron-gyp/
-        ../../.emulator_console_auth_token
-        ../../.expo/
-        ../../.gem/
-        ../../.gitconfig
-        ../../.gitignore
-        ../../.gk/
-        ../../.gnupg/
-        ../../.gradle/
-        ../../.idlerc/
-        ../../.lesshst
-        ../../.lmstudio-home-pointer
-        ../../.lmstudio/
-        ../../.local/
-        ../../.matplotlib/
-        ../../.mongodb/
-        ../../.mono/
-        ../../.node_repl_history
-        ../../.npm/
-        ../../.pm2-dev/
-        ../../.pm2/
-        ../../.redhat/
-        ../../.skiko/
-        ../../.ssh/
-        ../../.start_app_logs/
-        ../../.swiftpm/
-        ../../.tcshrc
-        ../../.th-client/
-        ../../.thumbnails/
-        ../../.viminfo
-        ../../.vscode-react-native/
-        ../../.vscode/
-        ../../.warp/
-        ../../.windsurf/
-        ../../.xonshrc
-        ../../.zprofile
-        ../../.zprofile.pysave
-        ../../.zsh_history
-        ../../.zsh_sessions/
-        ../../.zshrc
-        ../../.zshrc.backup-1737613426353
-        ../../.zshrc.swn
-        ../../.zshrc.swo
-        ../../AndroidStudioProjects/
-        ../../Applications/
-        ../../Calculator/
-        ../../Desktop/
-        ../../Documents/
-        ../
-        ../../Google Drive
-        ../../LLM/
-        ../../Library/
-        ../../Miniconda3-latest-MacOSX-arm64.sh
-        ../../Movies/
-        ../../Music/
-        ../../My Drive/
-        ../../My Games/
-        ../../OneDrive
-        ../../Pictures/
-        ../../Postman/
-        ../../Public/
-        ../../Samsung/
-        ../../VirtualBox VMs/
-        ../../WarThunderLauncherLogs/
-        ../../cache/
-        ../../client
-        ../../dump.rdb
-        ../../iCloud Drive (Archive)/
-        ../../package-lock.json
-        ../../server
+ 
 
 # Logs
 logs
@@ -109,3 +24,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.env
+env
